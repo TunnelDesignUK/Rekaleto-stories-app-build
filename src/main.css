@@ -1,0 +1,29 @@
+body{
+background-color: black; 
+font-family: monospace;
+font-size: 2em;   
+}
+
+#main{
+width:80%;
+background-color: #ea9914;
+margin: auto 0;
+padding:20px;
+border-bottom: white solid 4px;
+border-right: white solid 4px;
+}
+
+ul .main-ul{
+text-decoration:none;
+}
+
+ul .main-ul li{
+list-style: none;    
+}
+a{
+ color:white;   
+}
+
+a :hover :visited :active  {
+    color:white;
+}
