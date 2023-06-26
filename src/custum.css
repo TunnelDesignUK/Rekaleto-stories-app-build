@@ -9,6 +9,9 @@ body{
     border-radius: 10px;
 }
 
+#banner{
+    background-image: url('logo.jpg');
+}
 
 
 
